@@ -1,59 +1,58 @@
 [
-    {
-      "thumbnail":"../imagenes/Canguro.png",
-      "title": "Canguro",
-      "description" : "Canguro tela deportiva evermeet",
-      "price": 1890,
-      "stock": 3
+  {
+    "thumbnail": "../imagenes/Canguro.png",
+    "title": "Canguro",
+    "description": "Canguro tela deportiva evermeet",
+    "price": 1890,
+    "stock": 3
+  },
+  {
+    "thumbnail": "../imagenes/Tapabocas.png",
+    "title": "Tapabocas",
+    "description": "tapabocas tela algodon evermeet lavable",
+    "price": 350,
+    "stock": 20
+  },
+  {
+    "thumbnail":"../imagenes/Camiseta.png",
+    "title": "Remera",
+    "description" : "Camiseta tela deportiva evermeet",
+    "price": 1590,
+    "stock": 13
+  },
+  {
+    "thumbnail": "../imagenes/Gorro.png",
+    "title": "Gorro",
+    "description": "Gorro vicera plana everrmeet",
+    "price": 790,
+    "stock": 45
+  },
+  {
+    "thumbnail": "../imagenes/Evermeet_Bufanda.jpeg",
+    "title": "Bufanda",
+    "description": "Bufanda de lana evermeet",
+    "price": 450,
+    "stock": 6
     },
-    {
-      "thumbnail":"../imagenes/Tapabocas.png",
-      "title": "Tapabocas",
-      "description" : "tapabocas tela algodon evermeet lavable",
-      "price": 350,
-      "stock": 20
-    },
-    {
-      "thumbnail":"../imagenes/Camiseta.png",
-      "title": "Remera",
-      "description" : "Camiseta tela deportiva evermeet",
-      "price": 1590,
-      "stock": 13
-    },
-    {
-      "thumbnail":"../imagenes/Gorro.png",
-      "title": "Gorro",
-      "description" : "Gorro vicera plana everrmeet",
-      "price": 790,
-      "stock": 45
-    },
-    {
-      "thumbnail":"../imagenes/Evermeet_Bufanda.jpeg",
-      "title": "Bufanda",
-      "description" : "Bufanda de lana evermeet",
-      "price": 450,
-      "stock": 6
-    },
-    {
-      "thumbnail":"../imagenes/Evermeet_Freesbe.jpeg",
-      "title": "Fresbe",
-      "description" : "Divertido juguete tematica evermeet",
-      "price": 200,
-      "stock": 8
-    },
-    {
-      "thumbnail":"../imagenes/Evermeet_Mousepad.jpeg",
-      "title": "MousePad",
-      "description" : "Util mousepad evermeet",
-      "price": 250,
-      "stock": 10
-    },
-    {
-      "thumbnail":"../imagenes/Evermeet_Taza.jpeg",
-      "title": "Taza",
-      "description" : "taza de ceramica evermeet",
-      "price": 140,
-      "stock": 19
-    }
-  ]
-  
+  {
+    "thumbnail": "../imagenes/Evermeet_Freesbe.jpeg",
+    "title": "Fresbe",
+    "description": "Divertido juguete tematica evermeet",
+    "price": 200,
+    "stock": 8
+  },
+  {
+    "thumbnail": "../imagenes/Evermeet_Mousepad.jpeg",
+    "title": "MousePad",
+    "description": "Util mousepad evermeet",
+    "price": 250,
+    "stock": 10
+  },
+  {
+    "thumbnail": "../imagenes/Evermeet_Taza.jpeg",
+    "title": "Taza",
+    "description": "taza de ceramica evermeet",
+    "price": 140,
+    "stock": 19
+  }
+]
